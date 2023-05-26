@@ -32,4 +32,5 @@ while($produk = mysqli_fetch_array($query)){
             <td colspan=2><input type="submit" name ="submit" value="Ubah"></td>
         </tr>
     </table>
+    
 </form>
